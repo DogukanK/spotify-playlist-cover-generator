@@ -17,11 +17,16 @@ pip3 install spotipy
 pip3 install Pillow
 pip3 install colorthief
 ```
+
+## Usage
+
 To run:
 
 ```sh
 python3 main.py
 ```
+
+You should provide a Spotify OAuth Token to the script. To do that, you can simply create a Spotify developer account from *[here](https://developer.spotify.com/)* and generate an OAuth token with the only ```ugc-image-upload``` scope selected in *[this](https://developer.spotify.com/console/get-playlist-images/)* page. 
 
 ## Samples
 
