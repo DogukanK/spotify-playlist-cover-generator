@@ -2,7 +2,7 @@
 
 Create beautiful Spotify playlist covers in one click. </br>
 
-It creates random playlist covers from random images and your playlist names. </br>
+It creates random playlist covers from random images and your playlist names then uploads to your Spotify account. </br>
 
 It uses ``` This is + your playlist name ```template. </br>
 
